@@ -1,0 +1,1 @@
+export let arr  = Array.from({length:12})?.map((item,index) => index);
